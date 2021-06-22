@@ -1,6 +1,10 @@
+
 <h2> 👋 Hi, welcome! </h2>
 
+<img src="https://github-readme-stats.vercel.app/api?username=nihaojob" align="right" />
+
 我是**愚坤**, 昵称是**nihaojob** , 我来自中国 **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />. 
+
 
 
 - 掘金：https://juejin.cn/user/3843548383549214/posts
@@ -9,9 +13,8 @@
 
 
 
-
-<p align="right">
+<div>
 <img src="https://visitor-badge.glitch.me/badge?page_id=nihaojob@163.com" />
-</p>
+</div>
 
-[![nihaojob's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihaojob)](https://github.com/anuraghazra/github-readme-stats)
+
