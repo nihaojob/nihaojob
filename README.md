@@ -10,9 +10,6 @@
 - [早早聊](https://www.yuque.com/zaotalk/ip/yg2gct)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nihaojob" />
-
-<div  align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=nihaojob@163.com" />
-</div>
 
 
