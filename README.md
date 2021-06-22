@@ -13,3 +13,5 @@
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=nihaojob@163.com" />
 </p>
+
+[![nihaojob's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihaojob)](https://github.com/anuraghazra/github-readme-stats)
