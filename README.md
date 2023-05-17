@@ -9,9 +9,9 @@
 - [知乎](https://www.zhihu.com/people/nihaojob)
 - [早早聊](https://www.yuque.com/zaotalk/ip/yg2gct)
 
-我的开源项目：[vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
-
-![](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social)  
+我的开源项目：
+- [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+- ![](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social)  
 
 <img src="https://github-readme-stats.vercel.app/api?username=nihaojob" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=nihaojob@163.com" />
