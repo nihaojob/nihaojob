@@ -5,7 +5,7 @@
 
 
 - [个人博客](https://nihaojob.github.io/)
-- [掘金优秀作者](https://juejin.cn/user/3843548383549214/posts)
+- [掘金创作者](https://juejin.cn/user/3843548383549214/posts)
 - [知乎](https://www.zhihu.com/people/nihaojob)
 - [早早聊](https://www.yuque.com/zaotalk/ip/yg2gct)
 
