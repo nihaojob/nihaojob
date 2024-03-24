@@ -1,7 +1,7 @@
 
 <h2> 👋 Hi, welcome! </h2>
 
-我是**愚坤**， 昵称是**nihaojob** ， 我来自中国 **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />。
+我是**秦少卫**， 昵称是**nihaojob** ， 我来自中国 **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />。
 
 - [B站](https://space.bilibili.com/509257531?spm_id_from=333.1073.0.0)
 - [掘金创作者](https://juejin.cn/user/3843548383549214/posts)
